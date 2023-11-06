@@ -1,0 +1,73 @@
+2023-10-29 23:26:22,229: __main__ - INFO - Módulo util importado com sucesso.
+2023-10-29 23:26:22,229: __main__ - INFO - Lendo os dados de treino.
+2023-10-29 23:26:22,272: __main__ - INFO - Lendo os dados de teste.
+2023-10-29 23:34:41,139: __main__ - INFO - Módulo util importado com sucesso.
+2023-10-29 23:34:41,140: __main__ - INFO - Lendo os dados de treino.
+2023-10-29 23:34:41,183: __main__ - INFO - Lendo os dados de teste.
+2023-10-30 05:08:37,079: __main__ - INFO - hof: 1662.552 << sensor_12 time sensor_7 sensor_2 sensor_11 sensor_4 sensor_9
+2023-10-30 05:08:37,079: __main__ - INFO - hof: 1663.299 << sensor_12 time sensor_7 sensor_2 sensor_11 sensor_4 sensor_9
+2023-10-30 05:08:37,079: __main__ - INFO - hof: 1663.724 << sensor_12 time sensor_7 sensor_2 sensor_11 sensor_4 sensor_9
+2023-10-30 05:08:37,089: __main__ - INFO - hof: 1663.842 << sensor_12 time sensor_7 sensor_2 sensor_11 sensor_4 sensor_9
+2023-10-30 05:08:37,089: __main__ - INFO - hof: 1663.911 << sensor_12 time sensor_7 sensor_2 sensor_11 sensor_4 sensor_9
+2023-11-02 00:27:37,678: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:27:37,679: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:27:37,903: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:29:24,473: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:29:24,474: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:29:24,519: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:30:32,830: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:30:32,830: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:30:32,877: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:31:19,465: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:31:19,465: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:31:19,512: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:32:19,599: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:32:19,600: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:32:19,645: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:32:56,556: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:32:56,557: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:32:56,600: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:35:13,893: __main__ - INFO - hof: 374.595 << sensor_11 sensor_7 sensor_12 sensor_9 time sensor_13
+2023-11-02 00:35:13,893: __main__ - INFO - hof: 374.595 << sensor_11 sensor_7 sensor_12 sensor_9 time sensor_13
+2023-11-02 00:35:13,894: __main__ - INFO - hof: 374.595 << sensor_11 sensor_7 sensor_12 sensor_9 time sensor_13
+2023-11-02 00:35:13,894: __main__ - INFO - hof: 374.595 << sensor_11 sensor_7 sensor_12 sensor_9 time sensor_13
+2023-11-02 00:35:13,894: __main__ - INFO - hof: 374.595 << sensor_11 sensor_7 sensor_12 sensor_9 time sensor_13
+2023-11-02 00:35:42,682: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:35:42,682: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:35:42,727: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:37:23,610: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:37:23,611: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:37:23,654: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:40:14,377: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:40:14,377: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:40:14,425: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:41:37,665: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:41:37,665: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:41:37,714: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:43:10,457: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:43:10,458: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:43:10,504: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:43:55,505: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:43:55,506: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:43:55,552: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:46:04,931: __main__ - INFO - hof: 19.354 << sensor_9 sensor_11 sensor_13 sensor_7 time sensor_12
+2023-11-02 00:46:04,931: __main__ - INFO - hof: 19.354 << sensor_9 sensor_11 sensor_13 sensor_7 time sensor_12
+2023-11-02 00:46:04,931: __main__ - INFO - hof: 19.354 << sensor_9 sensor_11 sensor_13 sensor_7 time sensor_12
+2023-11-02 00:46:04,931: __main__ - INFO - hof: 19.354 << sensor_9 sensor_11 sensor_13 sensor_7 time sensor_12
+2023-11-02 00:46:04,932: __main__ - INFO - hof: 19.354 << sensor_9 sensor_11 sensor_13 sensor_7 time sensor_12
+2023-11-02 00:46:35,764: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:46:35,765: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:46:35,812: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:47:39,202: __main__ - INFO - hof: 19.437 << sensor_12 sensor_11 sensor_9 sensor_7 time
+2023-11-02 00:47:39,202: __main__ - INFO - hof: 19.437 << sensor_12 sensor_11 sensor_9 sensor_7 time
+2023-11-02 00:47:39,203: __main__ - INFO - hof: 19.437 << sensor_12 sensor_11 sensor_9 sensor_7 time
+2023-11-02 00:47:39,203: __main__ - INFO - hof: 19.437 << sensor_12 sensor_11 sensor_9 sensor_7 time
+2023-11-02 00:47:39,203: __main__ - INFO - hof: 19.437 << sensor_9 sensor_12 sensor_11 sensor_7 time
+2023-11-02 00:51:22,139: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-02 00:51:22,140: __main__ - INFO - Lendo os dados de treino.
+2023-11-02 00:51:22,187: __main__ - INFO - Lendo os dados de teste.
+2023-11-02 00:52:22,449: __main__ - INFO - hof: 19.767 << sensor_11 sensor_12 time sensor_9
+2023-11-02 00:52:22,449: __main__ - INFO - hof: 19.767 << sensor_11 sensor_12 time sensor_9
+2023-11-02 00:52:22,449: __main__ - INFO - hof: 19.767 << sensor_11 sensor_9 time sensor_12
+2023-11-02 00:52:22,450: __main__ - INFO - hof: 19.767 << sensor_11 sensor_12 time sensor_9
+2023-11-02 00:52:22,450: __main__ - INFO - hof: 19.767 << sensor_11 sensor_9 time sensor_12

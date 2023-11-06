@@ -143,3 +143,9 @@ class ControlPanel():
         if self.use_roi:
             df_data[rul_column_name][df_data[rul_column_name] > value_rul] = value_rul
         return df_data
+
+    def set_roi(self, value: int) -> None:
+        self.LENGHT_ROI: int = value
+    
+    def get_roi(self) -> int:
+        return self.LENGHT_ROI
