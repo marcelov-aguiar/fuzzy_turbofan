@@ -1,8 +1,155 @@
-2023-10-29 23:29:18,505: __main__ - INFO - Módulo util importado com sucesso.
-2023-10-29 23:29:18,506: __main__ - INFO - Lendo os dados de treino.
-2023-10-29 23:29:18,554: __main__ - INFO - Lendo os dados de teste.
-2023-10-29 23:32:39,277: __main__ - INFO - hof: 1842.882 << sensor_7 sensor_9 sensor_11 time sensor_2 sensor_4 sensor_12
-2023-10-29 23:32:39,278: __main__ - INFO - hof: 1842.882 << sensor_7 sensor_9 sensor_11 time sensor_2 sensor_4 sensor_12
-2023-10-29 23:32:39,278: __main__ - INFO - hof: 1842.882 << sensor_7 sensor_9 sensor_11 time sensor_2 sensor_4 sensor_12
-2023-10-29 23:32:39,278: __main__ - INFO - hof: 1842.882 << sensor_7 sensor_9 sensor_11 time sensor_2 sensor_4 sensor_12
-2023-10-29 23:32:39,278: __main__ - INFO - hof: 1842.882 << sensor_7 sensor_9 sensor_11 time sensor_2 sensor_4 sensor_12
+2023-11-16 17:43:06,247: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2023-11-16 17:43:06,248: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-16 17:43:06,248: ga_K_LightGBM - INFO - ##### K = 7 #####
+2023-11-16 17:43:06,248: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 17:43:06,294: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 17:43:51,180: ga_K_LightGBM - INFO - K = 7
+2023-11-16 17:43:51,181: ga_K_LightGBM - INFO - hof: 19.281 << ['sensor_7', 'sensor_11', 'time', 'sensor_9', 'sensor_4', 'sensor_12', 'sensor_8']
+2023-11-16 17:43:51,182: __main__ - INFO - Lendo os dados de treino.
+2023-11-16 17:43:51,191: __main__ - INFO - Lendo os dados de teste.
+2023-11-16 17:43:51,225: __main__ - INFO - Extraindo as regras
+2023-11-16 17:43:51,269: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2023-11-16 17:43:51,270: ga_K_LightGBM - INFO - ##### K = 9 #####
+2023-11-16 17:43:51,271: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 17:43:51,316: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 17:44:06,473: __main__ - INFO - Filtrando as regras
+2023-11-16 17:44:06,505: __main__ - INFO - São 2638 regras após a filtragem.
+2023-11-16 17:44:06,704: __main__ - INFO - Criando o sistema de controle
+2023-11-16 17:44:53,316: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2023-11-16 17:44:53,317: ga_K_LightGBM - INFO - ##### K = 9 #####
+2023-11-16 17:44:53,317: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 17:44:53,364: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 17:45:42,135: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2023-11-16 17:45:42,136: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-16 17:45:42,136: ga_K_LightGBM - INFO - ##### K = 7 #####
+2023-11-16 17:45:42,137: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 17:45:42,217: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 17:45:45,046: ga_K_LightGBM - INFO - K = 9
+2023-11-16 17:45:45,046: ga_K_LightGBM - INFO - hof: 19.189 << ['sensor_7', 'time', 'sensor_12', 'sensor_4', 'sensor_8', 'sensor_2', 'sensor_9', 'sensor_11', 'sensor_17']
+2023-11-16 17:49:09,217: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2023-11-16 17:49:09,217: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-16 17:49:09,218: ga_K_LightGBM - INFO - ##### K = 9 #####
+2023-11-16 17:49:09,218: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 17:49:09,322: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 17:50:07,171: ga_K_LightGBM - INFO - K = 9
+2023-11-16 17:50:07,172: ga_K_LightGBM - INFO - hof: 19.203 << ['sensor_11', 'sensor_7', 'sensor_14', 'time', 'sensor_4', 'sensor_12', 'sensor_17', 'sensor_2', 'sensor_13']
+2023-11-16 17:50:07,175: __main__ - INFO - Lendo os dados de treino.
+2023-11-16 17:50:07,190: __main__ - INFO - Lendo os dados de teste.
+2023-11-16 17:50:07,269: __main__ - INFO - Extraindo as regras
+2023-11-16 17:50:22,893: __main__ - INFO - Filtrando as regras
+2023-11-16 17:50:22,910: __main__ - INFO - São 4148 regras após a filtragem.
+2023-11-16 17:50:23,265: __main__ - INFO - Criando o sistema de controle
+2023-11-16 17:50:28,563: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2023-11-16 17:50:28,565: ga_K_LightGBM - INFO - ##### K = 7 #####
+2023-11-16 17:50:28,565: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 17:50:28,594: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 17:51:21,178: ga_K_LightGBM - INFO - K = 7
+2023-11-16 17:51:21,179: ga_K_LightGBM - INFO - hof: 19.273 << ['sensor_12', 'sensor_17', 'sensor_11', 'sensor_13', 'sensor_7', 'sensor_9', 'time']
+2023-11-16 22:26:37,264: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2023-11-16 22:26:37,265: ga_K_LightGBM - INFO - ##### K = 2 #####
+2023-11-16 22:26:37,265: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:26:37,317: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:27:21,495: ga_K_LightGBM - INFO - K = 2
+2023-11-16 22:27:21,496: ga_K_LightGBM - INFO - hof: 21.876 << ['time', 'sensor_11']
+2023-11-16 22:27:21,592: ga_K_LightGBM - INFO - ##### K = 3 #####
+2023-11-16 22:27:21,592: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:27:21,601: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:28:08,351: ga_K_LightGBM - INFO - K = 3
+2023-11-16 22:28:08,351: ga_K_LightGBM - INFO - hof: 20.590 << ['sensor_11', 'time', 'sensor_9']
+2023-11-16 22:28:08,456: ga_K_LightGBM - INFO - ##### K = 4 #####
+2023-11-16 22:28:08,457: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:28:08,466: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:28:56,586: ga_K_LightGBM - INFO - K = 4
+2023-11-16 22:28:56,586: ga_K_LightGBM - INFO - hof: 19.767 << ['sensor_9', 'sensor_12', 'time', 'sensor_11']
+2023-11-16 22:28:56,690: ga_K_LightGBM - INFO - ##### K = 5 #####
+2023-11-16 22:28:56,690: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:28:56,701: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:29:48,379: ga_K_LightGBM - INFO - K = 5
+2023-11-16 22:29:48,379: ga_K_LightGBM - INFO - hof: 19.437 << ['sensor_7', 'sensor_11', 'sensor_12', 'sensor_9', 'time']
+2023-11-16 22:29:48,499: ga_K_LightGBM - INFO - ##### K = 6 #####
+2023-11-16 22:29:48,499: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:29:48,510: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:30:43,864: ga_K_LightGBM - INFO - K = 6
+2023-11-16 22:30:43,865: ga_K_LightGBM - INFO - hof: 19.418 << ['sensor_12', 'sensor_9', 'sensor_8', 'sensor_17', 'sensor_11', 'time']
+2023-11-16 22:30:43,982: ga_K_LightGBM - INFO - ##### K = 7 #####
+2023-11-16 22:30:43,983: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:30:43,993: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:31:38,350: ga_K_LightGBM - INFO - K = 7
+2023-11-16 22:31:38,351: ga_K_LightGBM - INFO - hof: 19.279 << ['sensor_17', 'sensor_4', 'time', 'sensor_12', 'sensor_9', 'sensor_11', 'sensor_7']
+2023-11-16 22:31:38,466: ga_K_LightGBM - INFO - ##### K = 8 #####
+2023-11-16 22:31:38,466: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:31:38,475: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:32:38,214: ga_K_LightGBM - INFO - K = 8
+2023-11-16 22:32:38,214: ga_K_LightGBM - INFO - hof: 19.240 << ['sensor_12', 'sensor_11', 'time', 'sensor_9', 'sensor_3', 'sensor_4', 'sensor_8', 'sensor_7']
+2023-11-16 22:32:38,323: ga_K_LightGBM - INFO - ##### K = 9 #####
+2023-11-16 22:32:38,323: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:32:38,332: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:33:39,707: ga_K_LightGBM - INFO - K = 9
+2023-11-16 22:33:39,708: ga_K_LightGBM - INFO - hof: 19.145 << ['time', 'sensor_4', 'sensor_9', 'sensor_13', 'sensor_17', 'sensor_3', 'sensor_11', 'sensor_12', 'sensor_7']
+2023-11-16 22:33:39,831: ga_K_LightGBM - INFO - ##### K = 10 #####
+2023-11-16 22:33:39,831: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:33:39,842: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:34:41,405: ga_K_LightGBM - INFO - K = 10
+2023-11-16 22:34:41,405: ga_K_LightGBM - INFO - hof: 19.126 << ['sensor_7', 'sensor_2', 'sensor_12', 'sensor_11', 'sensor_8', 'time', 'sensor_17', 'sensor_4', 'sensor_13', 'sensor_9']
+2023-11-16 22:34:41,539: ga_K_LightGBM - INFO - ##### K = 11 #####
+2023-11-16 22:34:41,539: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:34:41,549: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:35:48,139: ga_K_LightGBM - INFO - K = 11
+2023-11-16 22:35:48,139: ga_K_LightGBM - INFO - hof: 19.094 << ['time', 'sensor_2', 'sensor_7', 'sensor_13', 'sensor_14', 'sensor_4', 'sensor_9', 'sensor_3', 'sensor_11', 'sensor_12', 'sensor_17']
+2023-11-16 22:35:48,268: ga_K_LightGBM - INFO - ##### K = 12 #####
+2023-11-16 22:35:48,269: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:35:48,278: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:36:58,139: ga_K_LightGBM - INFO - K = 12
+2023-11-16 22:36:58,140: ga_K_LightGBM - INFO - hof: 19.094 << ['sensor_13', 'sensor_12', 'sensor_14', 'sensor_7', 'sensor_9', 'sensor_4', 'sensor_2', 'sensor_11', 'time', 'sensor_15', 'sensor_3', 'sensor_17']
+2023-11-16 22:36:58,275: ga_K_LightGBM - INFO - ##### K = 13 #####
+2023-11-16 22:36:58,276: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:36:58,285: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:38:06,100: ga_K_LightGBM - INFO - K = 13
+2023-11-16 22:38:06,101: ga_K_LightGBM - INFO - hof: 19.066 << ['sensor_7', 'sensor_13', 'sensor_12', 'sensor_20', 'sensor_4', 'sensor_17', 'sensor_9', 'sensor_3', 'sensor_11', 'sensor_2', 'sensor_16', 'time', 'sensor_21']
+2023-11-16 22:38:06,234: ga_K_LightGBM - INFO - ##### K = 14 #####
+2023-11-16 22:38:06,235: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:38:06,244: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:39:14,327: ga_K_LightGBM - INFO - K = 14
+2023-11-16 22:39:14,327: ga_K_LightGBM - INFO - hof: 19.077 << ['setting_1', 'sensor_13', 'sensor_19', 'sensor_4', 'sensor_7', 'time', 'sensor_11', 'sensor_2', 'sensor_12', 'sensor_9', 'sensor_17', 'sensor_1', 'sensor_10', 'sensor_14']
+2023-11-16 22:39:14,469: ga_K_LightGBM - INFO - ##### K = 15 #####
+2023-11-16 22:39:14,469: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:39:14,479: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:40:27,133: ga_K_LightGBM - INFO - K = 15
+2023-11-16 22:40:27,134: ga_K_LightGBM - INFO - hof: 19.080 << ['sensor_3', 'sensor_20', 'time', 'sensor_7', 'sensor_21', 'sensor_4', 'sensor_17', 'sensor_14', 'setting_3', 'sensor_6', 'sensor_11', 'sensor_9', 'sensor_15', 'sensor_13', 'sensor_12']
+2023-11-16 22:40:27,306: ga_K_LightGBM - INFO - ##### K = 16 #####
+2023-11-16 22:40:27,307: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:40:27,318: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:41:40,408: ga_K_LightGBM - INFO - K = 16
+2023-11-16 22:41:40,409: ga_K_LightGBM - INFO - hof: 19.050 << ['sensor_13', 'sensor_3', 'sensor_7', 'sensor_17', 'sensor_11', 'time', 'sensor_14', 'setting_1', 'sensor_9', 'sensor_8', 'sensor_4', 'sensor_2', 'sensor_12', 'sensor_19', 'setting_3', 'sensor_20']
+2023-11-16 22:41:40,554: ga_K_LightGBM - INFO - ##### K = 17 #####
+2023-11-16 22:41:40,555: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:41:40,564: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:42:56,598: ga_K_LightGBM - INFO - K = 17
+2023-11-16 22:42:56,599: ga_K_LightGBM - INFO - hof: 19.038 << ['sensor_11', 'sensor_12', 'sensor_13', 'sensor_19', 'sensor_8', 'sensor_14', 'sensor_9', 'sensor_7', 'sensor_17', 'sensor_4', 'sensor_15', 'sensor_1', 'sensor_7', 'time', 'sensor_21', 'sensor_3', 'sensor_15']
+2023-11-16 22:42:56,775: ga_K_LightGBM - INFO - ##### K = 18 #####
+2023-11-16 22:42:56,775: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:42:56,784: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:44:15,326: ga_K_LightGBM - INFO - K = 18
+2023-11-16 22:44:15,328: ga_K_LightGBM - INFO - hof: 19.042 << ['sensor_9', 'sensor_5', 'sensor_7', 'sensor_8', 'sensor_14', 'sensor_17', 'sensor_13', 'sensor_12', 'sensor_2', 'time', 'sensor_4', 'setting_2', 'sensor_3', 'sensor_12', 'sensor_3', 'sensor_2', 'sensor_11', 'sensor_21']
+2023-11-16 22:44:15,506: ga_K_LightGBM - INFO - ##### K = 19 #####
+2023-11-16 22:44:15,507: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-16 22:44:15,516: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-16 22:45:35,652: ga_K_LightGBM - INFO - K = 19
+2023-11-16 22:45:35,652: ga_K_LightGBM - INFO - hof: 19.035 << ['sensor_13', 'sensor_21', 'sensor_20', 'sensor_4', 'sensor_13', 'sensor_21', 'sensor_10', 'sensor_8', 'sensor_11', 'sensor_3', 'setting_1', 'sensor_2', 'time', 'sensor_12', 'setting_3', 'sensor_7', 'sensor_17', 'sensor_9', 'sensor_16']
+2023-11-18 22:16:00,732: __main__ - INFO - Calculando previsão nos dados de treino.
+2023-11-18 23:39:46,322: __main__ - INFO - RMSE 19.43019454174556
+2023-11-18 23:39:46,322: __main__ - INFO - MAE 15.96493353823858
+2023-11-18 23:39:46,322: __main__ - INFO - Calculando previsão nos dados de teste.
+2023-11-19 00:31:35,943: __main__ - INFO - RMSE 21.649155775386035
+2023-11-19 00:31:35,943: __main__ - INFO - MAE 17.989133671037177
+2023-11-19 00:31:35,943: ga_K_LightGBM - INFO - ##### K = 10 #####
+2023-11-19 00:31:35,943: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-19 00:31:35,958: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-19 00:32:18,909: ga_K_LightGBM - INFO - K = 10
+2023-11-19 00:32:18,909: ga_K_LightGBM - INFO - hof: 19.130 << ['sensor_9', 'sensor_2', 'sensor_11', 'sensor_13', 'sensor_17', 'sensor_12', 'sensor_21', 'time', 'sensor_7', 'sensor_14']
+2023-11-19 00:32:18,909: __main__ - INFO - Lendo os dados de treino.
+2023-11-19 00:32:18,925: __main__ - INFO - Lendo os dados de teste.
+2023-11-19 00:32:18,956: __main__ - INFO - Extraindo as regras
+2023-11-19 00:32:27,287: __main__ - INFO - Filtrando as regras
+2023-11-19 00:32:27,303: __main__ - INFO - São 3929 regras após a filtragem.
+2023-11-19 00:32:27,646: __main__ - INFO - Criando o sistema de controle

@@ -207,7 +207,7 @@ def main():
     
     control_panel.set_roi(LENGHT_ROI)
     
-    n_features = 4
+    n_features = 2
 
     # todas as entradas
     genes = ['time',
@@ -342,6 +342,8 @@ def main():
     5 features sensor_12 sensor_11 sensor_9 sensor_7 time RMSE=19.43731731
 
     4 sensor_11 sensor_12 time sensor_9 RMSE=19.76676414
+
+    2 features: time sensor_11 RMSE = 21.876
     """
 if __name__ == '__main__':
     main()

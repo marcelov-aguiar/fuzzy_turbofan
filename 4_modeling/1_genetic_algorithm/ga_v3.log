@@ -1,0 +1,11 @@
+2023-11-16 17:50:28,564: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-16 17:51:21,181: __main__ - INFO - Lendo os dados de treino.
+2023-11-16 17:51:21,191: __main__ - INFO - Lendo os dados de teste.
+2023-11-16 17:51:21,228: __main__ - INFO - Extraindo as regras
+2023-11-16 17:51:29,031: __main__ - INFO - Filtrando as regras
+2023-11-16 17:51:29,045: __main__ - INFO - São 2449 regras após a filtragem.
+2023-11-16 17:51:29,116: __main__ - INFO - Criando o sistema de controle
+2023-11-17 06:23:38,913: __main__ - INFO - Calculando previsão nos dados de treino.
+2023-11-17 07:08:47,047: __main__ - INFO - RMSE 18.662581737973877
+2023-11-17 07:08:47,047: __main__ - INFO - MAE 14.94240123552752
+2023-11-17 07:08:47,047: __main__ - INFO - Calculando previsão nos dados de teste.
