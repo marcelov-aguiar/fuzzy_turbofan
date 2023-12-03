@@ -1,0 +1,175 @@
+2023-11-15 14:43:49,346: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2023-11-15 14:43:49,347: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-15 14:43:49,347: ga_K_LightGBM - INFO - ##### K = 2 #####
+2023-11-15 14:43:49,347: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-15 14:43:49,391: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-15 14:44:19,477: ga_K_LightGBM - INFO - K = 2
+2023-11-15 14:44:19,478: ga_K_LightGBM - INFO - hof: 21.876 << ['sensor_11', 'time']
+2023-11-15 14:44:19,479: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 14:44:19,488: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 14:44:19,506: __main__ - INFO - Extraindo as regras
+2023-11-15 14:44:21,433: __main__ - INFO - Filtrando as regras
+2023-11-15 14:44:21,442: __main__ - INFO - São 11 regras após a filtragem.
+2023-11-15 14:44:21,442: __main__ - INFO - Criando o sistema de controle
+2023-11-15 14:44:21,503: __main__ - INFO - Calculando previsão nos dados de treino.
+2023-11-15 14:48:45,367: __main__ - INFO - RMSE 30.862071068362482
+2023-11-15 14:48:45,368: __main__ - INFO - MAE 25.62764009201463
+2023-11-15 14:48:45,368: __main__ - INFO - Calculando previsão nos dados de teste.
+2023-11-15 14:51:34,296: __main__ - INFO - RMSE 35.646709357816384
+2023-11-15 14:51:34,297: __main__ - INFO - MAE 30.187370062220367
+2023-11-15 14:51:34,297: ga_K_LightGBM - INFO - ##### K = 3 #####
+2023-11-15 14:51:34,298: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-15 14:51:34,304: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-15 14:52:06,536: ga_K_LightGBM - INFO - K = 3
+2023-11-15 14:52:06,536: ga_K_LightGBM - INFO - hof: 20.590 << ['sensor_9', 'time', 'sensor_11']
+2023-11-15 14:52:06,537: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 14:52:06,546: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 14:52:06,564: __main__ - INFO - Extraindo as regras
+2023-11-15 14:52:08,970: __main__ - INFO - Filtrando as regras
+2023-11-15 14:52:08,979: __main__ - INFO - São 35 regras após a filtragem.
+2023-11-15 14:52:08,980: __main__ - INFO - Criando o sistema de controle
+2023-11-15 14:52:09,303: __main__ - INFO - Calculando previsão nos dados de treino.
+2023-11-15 14:57:08,633: __main__ - INFO - RMSE 31.17090468536402
+2023-11-15 14:57:08,634: __main__ - INFO - MAE 26.84502969871387
+2023-11-15 14:57:08,635: __main__ - INFO - Calculando previsão nos dados de teste.
+2023-11-15 15:00:17,161: __main__ - INFO - RMSE 30.735301278151184
+2023-11-15 15:00:17,162: __main__ - INFO - MAE 26.842456367987367
+2023-11-15 15:00:17,162: ga_K_LightGBM - INFO - ##### K = 4 #####
+2023-11-15 15:00:17,162: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-15 15:00:17,170: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-15 15:00:52,456: ga_K_LightGBM - INFO - K = 4
+2023-11-15 15:00:52,457: ga_K_LightGBM - INFO - hof: 19.767 << ['sensor_12', 'time', 'sensor_11', 'sensor_9']
+2023-11-15 15:00:52,458: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 15:00:52,467: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 15:00:52,489: __main__ - INFO - Extraindo as regras
+2023-11-15 15:00:55,348: __main__ - INFO - Filtrando as regras
+2023-11-15 15:00:55,357: __main__ - INFO - São 67 regras após a filtragem.
+2023-11-15 15:00:55,399: __main__ - INFO - Criando o sistema de controle
+2023-11-15 15:00:56,952: __main__ - INFO - Calculando previsão nos dados de treino.
+2023-11-15 15:06:07,150: __main__ - INFO - RMSE 25.862753801680707
+2023-11-15 15:06:07,150: __main__ - INFO - MAE 21.41458982396111
+2023-11-15 15:06:07,151: __main__ - INFO - Calculando previsão nos dados de teste.
+2023-11-15 15:09:22,766: __main__ - INFO - RMSE 28.527304424072945
+2023-11-15 15:09:22,766: __main__ - INFO - MAE 23.885834742984773
+2023-11-15 15:09:22,766: ga_K_LightGBM - INFO - ##### K = 5 #####
+2023-11-15 15:09:22,767: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-15 15:09:22,774: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-15 15:10:01,578: ga_K_LightGBM - INFO - K = 5
+2023-11-15 15:10:01,578: ga_K_LightGBM - INFO - hof: 19.437 << ['sensor_7', 'sensor_12', 'sensor_11', 'time', 'sensor_9']
+2023-11-15 15:10:01,579: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 15:10:01,588: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 15:10:01,611: __main__ - INFO - Extraindo as regras
+2023-11-15 15:10:04,915: __main__ - INFO - Filtrando as regras
+2023-11-15 15:10:04,926: __main__ - INFO - São 126 regras após a filtragem.
+2023-11-15 15:10:04,929: __main__ - INFO - Criando o sistema de controle
+2023-11-15 15:10:13,033: __main__ - INFO - Calculando previsão nos dados de treino.
+2023-11-15 15:16:18,468: __main__ - INFO - RMSE 26.426434971152013
+2023-11-15 15:16:18,469: __main__ - INFO - MAE 22.111979408075566
+2023-11-15 15:16:18,469: __main__ - INFO - Calculando previsão nos dados de teste.
+2023-11-15 15:20:04,962: __main__ - INFO - RMSE 28.57726462839977
+2023-11-15 15:20:04,962: __main__ - INFO - MAE 24.121651664164247
+2023-11-15 15:20:04,963: ga_K_LightGBM - INFO - ##### K = 6 #####
+2023-11-15 15:20:04,963: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-15 15:20:04,970: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-15 15:20:41,494: ga_K_LightGBM - INFO - K = 6
+2023-11-15 15:20:41,494: ga_K_LightGBM - INFO - hof: 19.354 << ['sensor_13', 'sensor_7', 'sensor_12', 'sensor_11', 'time', 'sensor_9']
+2023-11-15 15:20:41,495: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 15:20:41,504: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 15:20:41,527: __main__ - INFO - Extraindo as regras
+2023-11-15 15:20:45,219: __main__ - INFO - Filtrando as regras
+2023-11-15 15:20:45,232: __main__ - INFO - São 128 regras após a filtragem.
+2023-11-15 15:20:45,234: __main__ - INFO - Criando o sistema de controle
+2023-11-15 15:20:55,215: __main__ - INFO - Calculando previsão nos dados de treino.
+2023-11-15 15:27:18,242: __main__ - INFO - RMSE 27.550499355192727
+2023-11-15 15:27:18,243: __main__ - INFO - MAE 23.218112182077025
+2023-11-15 15:27:18,243: __main__ - INFO - Calculando previsão nos dados de teste.
+2023-11-15 15:31:16,014: __main__ - INFO - RMSE 28.540213085692805
+2023-11-15 15:31:16,014: __main__ - INFO - MAE 24.179722076785183
+2023-11-15 15:31:16,015: ga_K_LightGBM - INFO - ##### K = 7 #####
+2023-11-15 15:31:16,015: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-15 15:31:16,022: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-15 15:31:54,223: ga_K_LightGBM - INFO - K = 7
+2023-11-15 15:31:54,224: ga_K_LightGBM - INFO - hof: 19.274 << ['sensor_9', 'time', 'sensor_2', 'sensor_12', 'sensor_11', 'sensor_7', 'sensor_4']
+2023-11-15 15:31:54,225: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 15:31:54,234: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 15:31:54,259: __main__ - INFO - Extraindo as regras
+2023-11-15 15:31:58,442: __main__ - INFO - Filtrando as regras
+2023-11-15 15:31:58,456: __main__ - INFO - São 375 regras após a filtragem.
+2023-11-15 15:31:58,462: __main__ - INFO - Criando o sistema de controle
+2023-11-15 15:34:41,308: __main__ - INFO - Calculando previsão nos dados de treino.
+2023-11-15 15:45:00,995: __main__ - INFO - RMSE 26.292596452706704
+2023-11-15 15:45:00,996: __main__ - INFO - MAE 22.674823304580542
+2023-11-15 15:45:00,996: __main__ - INFO - Calculando previsão nos dados de teste.
+2023-11-15 15:51:30,739: __main__ - INFO - RMSE 26.530659658547535
+2023-11-15 15:51:30,739: __main__ - INFO - MAE 22.772119825992743
+2023-11-15 15:51:30,739: ga_K_LightGBM - INFO - ##### K = 8 #####
+2023-11-15 15:51:30,739: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-15 15:51:30,746: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-15 15:52:12,943: ga_K_LightGBM - INFO - K = 8
+2023-11-15 15:52:12,944: ga_K_LightGBM - INFO - hof: 19.224 << ['sensor_17', 'time', 'sensor_11', 'sensor_9', 'sensor_7', 'sensor_12', 'sensor_14', 'sensor_13']
+2023-11-15 15:52:12,945: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 15:52:12,954: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 15:52:12,982: __main__ - INFO - Extraindo as regras
+2023-11-15 15:52:17,663: __main__ - INFO - Filtrando as regras
+2023-11-15 15:52:17,677: __main__ - INFO - São 357 regras após a filtragem.
+2023-11-15 15:52:17,684: __main__ - INFO - Criando o sistema de controle
+2023-11-15 15:55:06,849: __main__ - INFO - Calculando previsão nos dados de treino.
+2023-11-15 16:05:50,221: __main__ - INFO - RMSE 27.78451178543633
+2023-11-15 16:05:50,222: __main__ - INFO - MAE 23.771249553648083
+2023-11-15 16:05:50,222: __main__ - INFO - Calculando previsão nos dados de teste.
+2023-11-15 16:12:34,339: __main__ - INFO - RMSE 26.186073636884096
+2023-11-15 16:12:34,340: __main__ - INFO - MAE 22.49812064292306
+2023-11-15 16:12:34,340: ga_K_LightGBM - INFO - ##### K = 9 #####
+2023-11-15 16:12:34,340: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-15 16:12:34,347: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-15 16:13:17,551: ga_K_LightGBM - INFO - K = 9
+2023-11-15 16:13:17,551: ga_K_LightGBM - INFO - hof: 19.185 << ['sensor_4', 'sensor_7', 'sensor_12', 'setting_1', 'sensor_17', 'time', 'sensor_13', 'sensor_9', 'sensor_11']
+2023-11-15 16:13:17,553: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 16:13:17,561: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 16:13:17,588: __main__ - INFO - Extraindo as regras
+2023-11-15 16:13:22,692: __main__ - INFO - Filtrando as regras
+2023-11-15 16:13:22,708: __main__ - INFO - São 412 regras após a filtragem.
+2023-11-15 16:13:22,716: __main__ - INFO - Criando o sistema de controle
+2023-11-15 16:17:53,476: __main__ - INFO - Calculando previsão nos dados de treino.
+2023-11-15 16:30:09,747: __main__ - INFO - RMSE 26.341378196792895
+2023-11-15 16:30:09,747: __main__ - INFO - MAE 22.798615124402534
+2023-11-15 16:30:09,748: __main__ - INFO - Calculando previsão nos dados de teste.
+2023-11-15 16:37:47,639: __main__ - INFO - RMSE 26.711156033815293
+2023-11-15 16:37:47,639: __main__ - INFO - MAE 23.02259785997444
+2023-11-15 16:37:47,640: ga_K_LightGBM - INFO - ##### K = 10 #####
+2023-11-15 16:37:47,640: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-15 16:37:47,647: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-15 16:38:30,004: ga_K_LightGBM - INFO - K = 10
+2023-11-15 16:38:30,004: ga_K_LightGBM - INFO - hof: 19.148 << ['sensor_17', 'sensor_4', 'sensor_11', 'sensor_7', 'sensor_13', 'sensor_9', 'sensor_7', 'sensor_2', 'time', 'sensor_12']
+2023-11-15 16:38:30,005: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 16:38:30,015: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 17:18:27,213: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2023-11-15 17:18:27,214: __main__ - INFO - Módulo util importado com sucesso.
+2023-11-15 17:18:27,215: ga_K_LightGBM - INFO - ##### K = 10 #####
+2023-11-15 17:18:27,215: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-15 17:18:27,416: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-15 17:19:16,906: ga_K_LightGBM - INFO - K = 10
+2023-11-15 17:19:16,907: ga_K_LightGBM - INFO - hof: 19.136 << ['sensor_9', 'sensor_12', 'sensor_13', 'sensor_20', 'time', 'sensor_4', 'sensor_11', 'sensor_17', 'sensor_3', 'sensor_7']
+2023-11-15 17:19:16,908: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 17:19:16,917: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 17:19:16,946: __main__ - INFO - Extraindo as regras
+2023-11-15 17:19:22,811: __main__ - INFO - Filtrando as regras
+2023-11-15 17:19:22,823: __main__ - INFO - São 907 regras após a filtragem.
+2023-11-15 17:19:22,881: __main__ - INFO - Criando o sistema de controle
+2023-11-15 18:00:27,890: __main__ - INFO - Calculando previsão nos dados de treino.
+2023-11-15 18:23:48,730: __main__ - INFO - RMSE 26.802907776438893
+2023-11-15 18:23:48,731: __main__ - INFO - MAE 23.247090451376266
+2023-11-15 18:23:48,731: __main__ - INFO - Calculando previsão nos dados de teste.
+2023-11-15 18:38:57,106: __main__ - INFO - RMSE 27.055371742058064
+2023-11-15 18:38:57,106: __main__ - INFO - MAE 23.335982459244285
+2023-11-15 18:38:57,106: ga_K_LightGBM - INFO - ##### K = 11 #####
+2023-11-15 18:38:57,106: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2023-11-15 18:38:57,113: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2023-11-15 18:39:46,765: ga_K_LightGBM - INFO - K = 11
+2023-11-15 18:39:46,765: ga_K_LightGBM - INFO - hof: 19.106 << ['sensor_4', 'time', 'sensor_12', 'sensor_11', 'sensor_3', 'sensor_17', 'sensor_9', 'sensor_2', 'sensor_20', 'sensor_7', 'sensor_13']
+2023-11-15 18:39:46,766: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:39:46,776: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:39:46,807: __main__ - INFO - Extraindo as regras
+2023-11-15 18:39:53,011: __main__ - INFO - Filtrando as regras
+2023-11-15 18:39:53,027: __main__ - INFO - São 1303 regras após a filtragem.
+2023-11-15 18:39:53,123: __main__ - INFO - Criando o sistema de controle

@@ -1,0 +1,135 @@
+{
+  "CONJUNTO 11": {
+    "QTDE_FEATURES": [2, 3, 4, 5, 6],
+    "FEATURES_SELECIONADAS": [
+      ["time", "sensor_11"],
+      ["time", "sensor_11", "sensor_9"],
+      ["sensor_9", "sensor_11", "time", "sensor_12"],
+      ["time", "sensor_9", "sensor_12", "sensor_11", "sensor_7"],
+      ["sensor_12", "sensor_13", "sensor_9", "sensor_7", "time", "sensor_11"]
+    ],
+    "QTDE_REGRAS_EXTRAIDAS": [35, 154, 409, 943, 1144],
+    "RMSE_DADOS_TESTE": [29.61, 23.0, 20.96, 20.11, 20.68]
+  },
+  "CONJUNTO 9": {
+    "QTDE_FEATURES": [2, 3, 4, 5, 6, 7, 8, 9],
+    "FEATURES_SELECIONADAS": [
+      ["sensor_11", "time"],
+      ["sensor_9", "sensor_11", "time"],
+      ["sensor_9", "sensor_11", "sensor_12", "time"],
+      ["sensor_7", "sensor_11", "sensor_9", "time", "sensor_12"],
+      ["sensor_9", "sensor_7", "sensor_12", "sensor_11", "sensor_13", "time"],
+      [
+        "sensor_13",
+        "sensor_7",
+        "sensor_11",
+        "sensor_17",
+        "sensor_9",
+        "time",
+        "sensor_12"
+      ],
+      [
+        "sensor_11",
+        "sensor_9",
+        "sensor_17",
+        "sensor_14",
+        "sensor_13",
+        "time",
+        "sensor_12",
+        "sensor_7"
+      ],
+      [
+        "sensor_11",
+        "sensor_7",
+        "sensor_14",
+        "time",
+        "sensor_4",
+        "sensor_12",
+        "sensor_17",
+        "sensor_2",
+        "sensor_13"
+      ]
+    ],
+    "QTDE_REGRAS_EXTRAIDAS": [23, 92, 239, 518, 599, 1330, 1934, 4148],
+    "RMSE_DADOS_TESTE": [24.46, 20.76, 23.04, 20.94, 22.44, 22.14, 21.81, 21.65]
+  },
+  "CONJUNTO 5": {
+    "QTDE_FEATURES": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "FEATURES_SELECIONADAS": [
+      ["sensor_11", "time"],
+      ["sensor_9", "time", "sensor_11"],
+      ["sensor_12", "time", "sensor_11", "sensor_9"],
+      ["sensor_7", "sensor_12", "sensor_11", "time", "sensor_9"],
+      ["sensor_13", "sensor_7", "sensor_12", "sensor_11", "time", "sensor_9"],
+      [
+        "sensor_9",
+        "time",
+        "sensor_2",
+        "sensor_12",
+        "sensor_11",
+        "sensor_7",
+        "sensor_4"
+      ],
+      [
+        "sensor_17",
+        "time",
+        "sensor_11",
+        "sensor_9",
+        "sensor_7",
+        "sensor_12",
+        "sensor_14",
+        "sensor_13"
+      ],
+      [
+        "sensor_4",
+        "sensor_7",
+        "sensor_12",
+        "setting_1",
+        "sensor_17",
+        "time",
+        "sensor_13",
+        "sensor_9",
+        "sensor_11"
+      ],
+      [
+        "sensor_9",
+        "sensor_12",
+        "sensor_13",
+        "sensor_20",
+        "time",
+        "sensor_4",
+        "sensor_11",
+        "sensor_17",
+        "sensor_3",
+        "sensor_7"
+      ]
+    ],
+    "QTDE_REGRAS_EXTRAIDAS": [11, 35, 67, 126, 128, 375, 357, 412, 907],
+    "RMSE_DADOS_TESTE": [
+      35.65, 30.74, 28.53, 28.58, 28.54, 26.53, 26.19, 26.71, 27.06
+    ]
+  },
+  "CONJUNTO 5 ANFIS":{
+    "QTDE_FEATURES": [2, 3, 4],
+    "FEATURES_SELECIONADAS": [
+      ["sensor_11", "time"],
+      ["sensor_9", "time", "sensor_11"],
+      ["sensor_12", "time", "sensor_11", "sensor_9"]
+    ],
+    "QTDE_REGRAS_EXTRAIDAS": [25, 125, 625],
+    "RMSE_DADOS_TESTE": [
+      22.05, 21.31, 21.33
+    ]
+  },
+  "CONJUNTO 9 ANFIS":{
+    "QTDE_FEATURES": [2, 3],
+    "FEATURES_SELECIONADAS": [
+      ["sensor_11", "time"],
+      ["sensor_9", "time", "sensor_11"]
+    ],
+    "QTDE_REGRAS_EXTRAIDAS": [81, 729],
+    "RMSE_DADOS_TESTE": [
+      21.97, 21.79
+    ]
+  }
+}

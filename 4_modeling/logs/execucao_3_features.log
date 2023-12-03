@@ -1,0 +1,225 @@
+2023-11-15 17:45:51,575: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 17:45:51,643: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 17:49:40,857: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 17:49:40,920: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 17:52:10,206: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 17:52:10,273: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 17:54:14,687: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 17:54:14,752: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 17:56:41,748: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 17:56:41,813: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:10:23,848: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:10:23,898: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:13:03,823: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:13:03,869: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:14:27,589: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:14:27,632: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:16:54,538: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:16:54,582: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:17:18,537: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:17:18,583: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:18:33,365: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:18:33,408: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:19:07,260: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:19:07,320: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:21:10,792: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:21:10,837: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:24:33,632: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:24:33,688: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:25:35,060: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:25:35,123: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:39:54,188: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:39:54,233: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:42:46,570: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:42:46,626: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:45:20,460: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:45:20,504: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 18:54:00,327: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 18:54:00,373: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 22:20:52,737: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 22:20:52,783: __main__ - INFO - Lendo os dados de teste.
+2023-11-15 22:37:27,491: __main__ - INFO - Lendo os dados de treino.
+2023-11-15 22:37:27,541: __main__ - INFO - Lendo os dados de teste.
+Traceback (most recent call last):
+  File "c:/Users/marce/Documentos/MEGAsync/0_PUC-Rio/1_Período/1_Lógica Fuzzy/2_Trabalho final/fuzzy_turbofan/4_modeling/anfis/tests.py", line 125, in <module>
+    anf.trainHybridJangOffLine(epochs=20)
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 86, in trainHybridJangOffLine
+    dE_dAlpha = list(backprop(self, colX, cols, wSum, w, layerFive) for colX in range(self.X.shape[1])) 
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 86, in <genexpr>
+    dE_dAlpha = list(backprop(self, colX, cols, wSum, w, layerFive) for colX in range(self.X.shape[1])) 
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 235, in backprop
+    fConsequent = np.dot(np.append(ANFISObj.X[rowX,:],1.),ANFISObj.consequents[((ANFISObj.X.shape[1] + 1) * consequent):(((ANFISObj.X.shape[1] + 1) * consequent) + (ANFISObj.X.shape[1] + 1)),colY])
+  File "<__array_function__ internals>", line 180, in append
+  File "c:\Users\marce\Documentos\python_venv\venvFuzzyTurbofan\lib\site-packages\numpy\libKeyboardInterrupt
+^C
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>
+
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>
+
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>c:/Users/marce/Documentos/python_venv/venvFuzzyTurbofan/Scripts/python.exe "c:/Users/marce/Documentos/MEGAsync/0_PUC-Rio/1_Período/1_Lógica Fuzzy/2_Trabalho final/fuzzy_turbofan/4_modeling/anfis/tests.py"
+__main__ - INFO - Lendo os dados de treino.
+__main__ - INFO - Lendo os dados de teste.
+current error: 7580915.084532194
+Traceback (most recent call last):
+  File "c:/Users/marce/Documentos/MEGAsync/0_PUC-Rio/1_Período/1_Lógica Fuzzy/2_Trabalho final/fuzzy_turbofan/4_modeling/anfis/tests.py", line 125, in <module>
+    anf.trainHybridJangOffLine(epochs=20)
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 95, in trainHybridJangOffLine
+    print("RMSE", root_mean_squared_error(self.Y, layerFive.T))
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 29, in root_mean_squared_error
+    return np.sqrt(mean_squared_error(y_true, y_pred))
+  File "c:\Users\marce\Documentos\python_venv\venvFuzzyTurbofan\lib\site-packages\sklearn\metrics\_regression.py", line 442, in mean_squared_error
+    y_type, y_true, y_pred, multioutput = _check_reg_targets(
+  File "c:\Users\marce\Documentos\python_venv\venvFuzzyTurbofan\lib\site-packages\sklearn\metrics\_regression.py", line 100, in _check_reg_targets
+    check_consistent_length(y_true, y_pred)
+  File "c:\Users\marce\Documentos\python_venv\venvFuzzyTurbofan\lib\site-packages\sklearn\utils\validation.py", line 387, in check_consistent_length
+    raise ValueError(
+ValueError: Found input variables with inconsistent numbers of samples: [20631, 1]
+
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>c:/Users/marce/Documentos/python_venv/venvFuzzyTurbofan/Scripts/python.exe "c:/Users/marce/Documentos/MEGAsync/0_PUC-Rio/1_Período/1_Lógica Fuzzy/2_Trabalho final/fuzzy_turbofan/4_modeling/anfis/tests.py"
+__main__ - INFO - Lendo os dados de treino.
+__main__ - INFO - Lendo os dados de teste.
+current error: 7580915.084532194
+RMSE 19.16905380923281
+current error: 7580882.4393653385
+RMSE 19.16901253600743
+Traceback (most recent call last):
+  File "c:/Users/marce/Documentos/MEGAsync/0_PUC-Rio/1_Período/1_Lógica Fuzzy/2_Trabalho final/fuzzy_turbofan/4_modeling/anfis/tests.py", line 125, in <module>
+    anf.trainHybridJangOffLine(epochs=20)
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 106, in trainHybridJangOffLine
+    dE_dAlpha = list(backprop(self, colX, cols, wSum, w, layerFive) for colX in range(self.X.shape[1]))
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 106, in <genexpr>
+    dE_dAlpha = list(backprop(self, colX, cols, wSum, w, layerFive) for colX in range(self.X.shape[1]))
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 260, in backprop
+    acum = acum - theW[consequent,rowX] * np.sum(dW_dAplha)
+  File "<__array_function__ internals>", line 180, in sum
+  File "c:\Users\marce\Documentos\python_venv\venvFuzzyTurbofan\lib\site-packages\numpy\core\fromnumeric.py", line 2298, in sum
+    return _wrapreduction(a, np.add, 'sum', axis, dtype, out, keepdims=keepdims,
+  File "c:\Users\marce\Documentos\python_venv\venvFuzzyTurbofan\lib\site-packages\numpy\core\fromnumeric.py", line 69, in _wrapreduction
+    def _wrapreduction(obj, ufunc, method, axis, dtype, out, **kwargs):
+KeyboardInterrupt
+^C
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>
+
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>c:/Users/marce/Documentos/python_venv/venvFuzzyTurbofan/Scripts/python.exe "c:/Users/marce/Documentos/MEGAsync/0_PUC-Rio/1_Período/1_Lógica Fuzzy/2_Trabalho final/fuzzy_turbofan/4_modeling/anfis/tests.py"
+__main__ - INFO - Lendo os dados de treino.
+__main__ - INFO - Lendo os dados de teste.
+Traceback (most recent call last):
+  File "c:/Users/marce/Documentos/MEGAsync/0_PUC-Rio/1_Período/1_Lógica Fuzzy/2_Trabalho final/fuzzy_turbofan/4_modeling/anfis/tests.py", line 125, in <module>
+    anf.trainHybridJangOffLine(epochs=20)
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 88, in trainHybridJangOffLine
+    layerFive = np.array(self.LSE(layerFour,self.Y,initialGamma))
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 72, in LSE
+    S = S - (np.array(np.dot(np.dot(np.dot(S,np.matrix(a).transpose()),np.matrix(a)),S)))/(1+(np.dot(np.dot(S,a),a)))
+  File "<__array_function__ internals>", line 180, in dot
+KeyboardInterrupt
+^C
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>c:/Users/marce/Documentos/python_venv/venvFuzzyTurbofan/Scripts/python.exe "c:/Users/marce/Documentos/MEGAsync/0_PUC-Rio/1_Período/1_Lógica Fuzzy/2_Trabalho final/fuzzy_turbofan/4_modeling/anfis/tests.py"
+__main__ - INFO - Lendo os dados de treino.
+__main__ - INFO - Lendo os dados de teste.
+current error: 6158751.70906769
+RMSE 17.277711118413023
+Traceback (most recent call last):
+  File "c:/Users/marce/Documentos/MEGAsync/0_PUC-Rio/1_Período/1_Lógica Fuzzy/2_Trabalho final/fuzzy_turbofan/4_modeling/anfis/tests.py", line 125, in <module>
+    anf = anfis.ANFIS(X_train, np.ravel(y_train), mfc)
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 106, in trainHybridJangOffLine
+    cols = range(len(self.X[0,:]))
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 106, in <genexpr>
+    cols = range(len(self.X[0,:]))
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 255, in backprop
+    for consequent in range(len(ANFISObj.rules[:,0])):
+KeyboardInterrupt
+^C
+_Trabalho final\fuzzy_turbofan\4_modeling>
+
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>
+
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>c:/Users/marce/Documentos/python_venv/venvFuzzyTurbofan/Scripts/python.exe "c:/Users/marce/Documentos/MEGAsync/0_PUC-Rio/1_Período/1_Lógica Fuzzy/2_Trabalho final/fuzzy_turbofan/4_modeling/anfis/tests.py"
+__main__ - INFO - Lendo os dados de treino.
+__main__ - INFO - Lendo os dados de teste.
+current error: 6158751.70906769
+RMSE Train 17.277711118413023
+MAE Train 11.8583338132806
+c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py:125: RuntimeWarning: divide by zero encountered in double_scalars
+  eta = k / np.abs(np.sum(t))
+current error: 6158751.70906769
+RMSE Train 17.277711118413023
+MAE Train 11.8583338132806
+c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py:125: RuntimeWarning: divide by zero encountered in double_scalars
+  eta = k / np.abs(np.sum(t))
+current error: 6158751.70906769
+RMSE Train 17.277711118413023
+MAE Train 11.8583338132806
+c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py:125: RuntimeWarning: divide by zero encountered in double_scalars
+  eta = k / np.abs(np.sum(t))
+current error: 6158751.70906769
+RMSE Train 17.277711118413023
+MAE Train 11.8583338132806
+c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py:125: RuntimeWarning: divide by zero encountered in double_scalars
+  eta = k / np.abs(np.sum(t))
+current error: 6158751.70906769
+RMSE Train 17.277711118413023
+MAE Train 11.8583338132806
+c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py:125: RuntimeWarning: divide by zero encountered in double_scalars
+  eta = k / np.abs(np.sum(t))
+current error: 6158751.70906769
+RMSE Train 17.277711118413023
+MAE Train 11.8583338132806
+c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py:125: RuntimeWarning: divide by zero encountered in double_scalars
+  eta = k / np.abs(np.sum(t))
+current error: 6158751.70906769
+RMSE Train 17.277711118413023
+MAE Train 11.8583338132806
+c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py:125: RuntimeWarning: divide by zero encountered in double_scalars
+  eta = k / np.abs(np.sum(t))
+current error: 6158751.70906769
+RMSE Train 17.277711118413023
+MAE Train 11.8583338132806
+c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py:125: RuntimeWarning: divide by zero encountered in double_scalars
+  eta = k / np.abs(np.sum(t))
+current error: 6158751.70906769
+RMSE Train 17.277711118413023
+MAE Train 11.8583338132806
+c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py:125: RuntimeWarning: divide by zero encountered in double_scalars
+  eta = k / np.abs(np.sum(t))
+current error: 6158751.70906769
+RMSE Train 17.277711118413023
+MAE Train 11.8583338132806
+c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py:125: RuntimeWarning: divide by zero encountered in double_scalars
+  eta = k / np.abs(np.sum(t))
+current error: 6158751.70906769
+RMSE Train 17.277711118413023
+MAE Train 11.8583338132806
+c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py:125: RuntimeWarning: divide by zero encountered in double_scalars
+  eta = k / np.abs(np.sum(t))
+current error: 6158751.70906769
+RMSE Train 17.277711118413023
+MAE Train 11.8583338132806
+Traceback (most recent call last):
+  File "c:/Users/marce/Documentos/MEGAsync/0_PUC-Rio/1_Período/1_Lógica Fuzzy/2_Trabalho final/fuzzy_turbofan/4_modeling/anfis/tests.py", line 126, in <module>
+    anf.trainHybridJangOffLine(epochs=20)
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 107, in trainHybridJangOffLine
+    dE_dAlpha = list(backprop(self, colX, cols, wSum, w, layerFive) for colX in range(self.X.shape[1]))
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 107, in <genexpr>
+    dE_dAlpha = list(backprop(self, colX, cols, wSum, w, layerFive) for colX in range(self.X.shape[1]))
+  File "c:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling\anfis\anfis.py", line 261, in backprop
+    acum = acum - theW[consequent,rowX] * np.sum(dW_dAplha)
+  File "<__array_function__ internals>", line 180, in sum
+  File "c:\Users\marce\Documentos\python_venv\venvFuzzyTurbofan\lib\site-packages\numpy\core\fromnumeric.py", line 2298, in sum     
+    return _wrapreduction(a, np.add, 'sum', axis, dtype, out, keepdims=keepdims,
+  File "c:\Users\marce\Documentos\python_venv\venvFuzzyTurbofan\lib\site-packages\numpy\cortion
+    return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+KeyboardInterrupt
+^C
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>^Z
+
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>
+
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>log_fuzzy_perfomance_5_setslog_fuzzy_perfomance_5_setslog_fuzzy_perfomance_5_setslog_fuzzy_perfomance_5_setslog_fuzzy_perfomance_5_sets     
+
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>
+
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>log_fuzzy_perfomance_5_sets2023-11-15 17:45:51,575: __main__ - INFO - Lendo os dados de treino.
+'log_fuzzy_perfomance_5_sets2023-11-15' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+(venvFuzzyTurbofan) C:\Users\marce\Documentos\MEGAsync\0_PUC-Rio\1_Período\1_Lógica Fuzzy\2_Trabalho final\fuzzy_turbofan\4_modeling>

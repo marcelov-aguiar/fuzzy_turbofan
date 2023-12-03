@@ -162,4 +162,4 @@ class Preprocessing(FormatData):
 
 if __name__ == '__main__':
     preprocessing = Preprocessing()
-    preprocessing.run_preprocessing('FD001')
+    preprocessing.run_preprocessing('FD002')
