@@ -71,12 +71,9 @@ for k in range(9,20):
 
     equipment_name = 'FD001'
 
-    
-    #set_amounts = 5
     set_amounts = 9
-    # 
-    #set_names = ['Baixo','Moderado', 'OK','Elevado', 'Alto']
-    set_names = ["Extremamente baixo",'Muito baixo','Baixo','Moderado', 'OK','Elevado', 'Alto', 'Muito alto', "Extremamente alto"]
+    #old_set_names = ["Extremamente baixo",'Muito baixo','Baixo','Moderado', 'OK','Elevado', 'Alto', 'Muito alto', "Extremamente alto"]
+    set_names = ["Extremely Low", "Very Low", "Low", "Medium Low", "Medium", "Medium High", "High", "Very High", "Extremely High"]
     # %%
     logger.info("Lendo os dados de treino.")
 

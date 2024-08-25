@@ -1,0 +1,153 @@
+2024-08-21 22:32:10,619: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-21 22:32:12,800: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-21 22:32:12,801: ga_K_LightGBM - INFO - ##### K = 9 #####
+2024-08-21 22:32:12,802: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-21 22:32:13,485: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-21 22:33:24,344: ga_K_LightGBM - INFO - K = 9
+2024-08-21 22:33:24,344: ga_K_LightGBM - INFO - hof: 19.145 << ['sensor_7', 'sensor_13', 'sensor_11', 'time', 'sensor_17', 'sensor_3', 'sensor_12', 'sensor_9', 'sensor_4']
+2024-08-21 22:33:24,346: __main__ - INFO - Lendo os dados de treino.
+2024-08-21 22:33:24,359: __main__ - INFO - Lendo os dados de teste.
+2024-08-21 22:33:24,410: __main__ - INFO - Extraindo as regras
+2024-08-21 22:45:00,934: __main__ - INFO - Filtrando as regras
+2024-08-21 23:00:27,998: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-21 23:00:27,999: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-21 23:00:28,000: ga_K_LightGBM - INFO - ##### K = 9 #####
+2024-08-21 23:00:28,000: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-21 23:00:28,053: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-21 23:01:38,124: ga_K_LightGBM - INFO - K = 9
+2024-08-21 23:01:38,125: ga_K_LightGBM - INFO - hof: 19.148 << ['time', 'sensor_9', 'sensor_4', 'sensor_2', 'sensor_12', 'sensor_7', 'sensor_11', 'sensor_13', 'sensor_17']
+2024-08-21 23:01:38,126: __main__ - INFO - Lendo os dados de treino.
+2024-08-21 23:01:38,140: __main__ - INFO - Lendo os dados de teste.
+2024-08-21 23:01:38,190: __main__ - INFO - Extraindo as regras
+2024-08-21 23:28:57,678: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-21 23:28:57,699: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-21 23:29:11,221: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-21 23:29:11,236: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-21 23:29:11,266: ga_K_LightGBM - INFO - ##### K = 3 #####
+2024-08-21 23:29:11,267: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-21 23:29:11,314: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-21 23:29:54,068: ga_K_LightGBM - INFO - K = 3
+2024-08-21 23:29:54,070: ga_K_LightGBM - INFO - hof: 20.590 << ['sensor_9', 'time', 'sensor_11']
+2024-08-21 23:29:54,089: __main__ - INFO - Lendo os dados de treino.
+2024-08-21 23:29:54,100: __main__ - INFO - Lendo os dados de teste.
+2024-08-21 23:29:54,215: __main__ - INFO - Extraindo as regras
+2024-08-21 23:29:56,882: __main__ - INFO - Filtrando as regras
+2024-08-21 23:29:56,893: __main__ - INFO - São 35 regras após a filtragem.
+2024-08-21 23:29:56,928: __main__ - INFO - Criando o sistema de controle
+2024-08-22 20:19:59,734: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-22 20:21:12,052: __main__ - INFO - Lendo os dados de treino.
+2024-08-22 20:21:12,064: __main__ - INFO - Lendo os dados de teste.
+2024-08-22 20:23:30,634: __main__ - INFO - Extraindo as regras
+2024-08-22 20:28:04,788: __main__ - INFO - Filtrando as regras
+2024-08-22 21:43:15,292: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-22 21:44:29,337: __main__ - INFO - Lendo os dados de treino.
+2024-08-22 21:44:29,346: __main__ - INFO - Lendo os dados de teste.
+2024-08-22 21:44:41,788: __main__ - INFO - Extraindo as regras
+2024-08-22 22:11:06,575: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-22 22:11:06,595: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-22 22:11:06,621: ga_K_LightGBM - INFO - ##### K = 3 #####
+2024-08-22 22:11:06,622: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-22 22:11:06,660: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-22 22:11:51,472: ga_K_LightGBM - INFO - K = 3
+2024-08-22 22:11:51,473: ga_K_LightGBM - INFO - hof: 20.590 << ['sensor_11', 'sensor_9', 'time']
+2024-08-22 22:11:51,493: __main__ - INFO - Lendo os dados de treino.
+2024-08-22 22:11:51,506: __main__ - INFO - Lendo os dados de teste.
+2024-08-22 22:11:51,632: __main__ - INFO - Extraindo as regras
+2024-08-22 22:11:55,564: __main__ - INFO - Filtrando as regras
+2024-08-22 22:11:55,577: __main__ - INFO - São 92 regras após a filtragem.
+2024-08-22 22:11:55,611: __main__ - INFO - Criando o sistema de controle
+2024-08-22 22:12:03,068: __main__ - INFO - Calculando previsão nos dados de treino.
+2024-08-22 22:16:49,570: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-22 22:16:49,595: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-22 22:16:49,626: ga_K_LightGBM - INFO - ##### K = 3 #####
+2024-08-22 22:16:49,627: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-22 22:16:49,671: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-22 22:17:34,826: ga_K_LightGBM - INFO - K = 3
+2024-08-22 22:17:34,827: ga_K_LightGBM - INFO - hof: 20.590 << ['sensor_11', 'time', 'sensor_9']
+2024-08-22 22:17:34,848: __main__ - INFO - Lendo os dados de treino.
+2024-08-22 22:17:34,863: __main__ - INFO - Lendo os dados de teste.
+2024-08-22 22:17:34,983: __main__ - INFO - Extraindo as regras
+2024-08-22 22:17:38,860: __main__ - INFO - Filtrando as regras
+2024-08-22 22:17:38,870: __main__ - INFO - São 92 regras após a filtragem.
+2024-08-22 22:17:38,904: __main__ - INFO - Criando o sistema de controle
+2024-08-22 22:29:00,304: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-22 22:30:12,663: __main__ - INFO - Lendo os dados de treino.
+2024-08-22 22:30:12,677: __main__ - INFO - Lendo os dados de teste.
+2024-08-22 22:30:12,736: __main__ - INFO - Extraindo as regras
+2024-08-22 22:30:42,756: __main__ - INFO - Filtrando as regras
+2024-08-23 00:12:41,165: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-23 00:12:41,214: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-23 00:12:41,242: ga_K_LightGBM - INFO - ##### K = 3 #####
+2024-08-23 00:12:41,243: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-23 00:12:41,298: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-23 00:12:51,886: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-23 00:12:51,929: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-23 00:12:51,960: ga_K_LightGBM - INFO - ##### K = 5 #####
+2024-08-23 00:12:51,961: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-23 00:12:52,005: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-23 00:13:40,445: ga_K_LightGBM - INFO - K = 5
+2024-08-23 00:13:40,446: ga_K_LightGBM - INFO - hof: 19.437 << ['sensor_9', 'sensor_7', 'sensor_11', 'sensor_12', 'time']
+2024-08-23 00:13:40,467: __main__ - INFO - Lendo os dados de treino.
+2024-08-23 00:13:40,480: __main__ - INFO - Lendo os dados de teste.
+2024-08-23 00:13:40,604: __main__ - INFO - Extraindo as regras
+2024-08-23 00:13:47,009: __main__ - INFO - Filtrando as regras
+2024-08-23 00:13:47,099: __main__ - INFO - São 943 regras após a filtragem.
+2024-08-23 00:13:47,147: __main__ - INFO - Criando o sistema de controle
+2024-08-25 10:10:21,426: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-25 10:10:21,470: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-25 10:10:21,501: ga_K_LightGBM - INFO - ##### K = 5 #####
+2024-08-25 10:10:21,502: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-25 10:10:21,717: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-25 10:11:04,954: ga_K_LightGBM - INFO - K = 5
+2024-08-25 10:11:04,955: ga_K_LightGBM - INFO - hof: 19.437 << ['sensor_11', 'sensor_9', 'sensor_7', 'sensor_12', 'time']
+2024-08-25 10:11:04,987: __main__ - INFO - Lendo os dados de treino.
+2024-08-25 10:11:04,997: __main__ - INFO - Lendo os dados de teste.
+2024-08-25 10:11:05,105: __main__ - INFO - Extraindo as regras
+2024-08-25 10:11:11,184: __main__ - INFO - Filtrando as regras
+2024-08-25 10:11:11,199: __main__ - INFO - São 943 regras após a filtragem.
+2024-08-25 10:11:11,308: __main__ - INFO - Criando o sistema de controle
+2024-08-25 11:10:28,983: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-25 11:10:29,025: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-25 11:10:29,056: ga_K_LightGBM - INFO - ##### K = 3 #####
+2024-08-25 11:10:29,057: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-25 11:10:29,097: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-25 11:11:08,347: ga_K_LightGBM - INFO - K = 3
+2024-08-25 11:11:08,349: ga_K_LightGBM - INFO - hof: 20.590 << ['sensor_11', 'time', 'sensor_9']
+2024-08-25 11:11:08,379: __main__ - INFO - Lendo os dados de treino.
+2024-08-25 11:11:08,395: __main__ - INFO - Lendo os dados de teste.
+2024-08-25 11:11:08,493: __main__ - INFO - Extraindo as regras
+2024-08-25 11:11:12,140: __main__ - INFO - Filtrando as regras
+2024-08-25 11:11:12,150: __main__ - INFO - São 92 regras após a filtragem.
+2024-08-25 11:11:12,187: __main__ - INFO - Criando o sistema de controle
+2024-08-25 12:32:45,739: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-25 12:32:45,739: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-25 12:32:45,768: ga_K_LightGBM - INFO - ##### K = 3 #####
+2024-08-25 12:32:45,769: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-25 12:32:45,795: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-25 12:33:25,277: ga_K_LightGBM - INFO - K = 3
+2024-08-25 12:33:25,278: ga_K_LightGBM - INFO - hof: 20.590 << ['sensor_11', 'sensor_9', 'time']
+2024-08-25 12:33:25,294: __main__ - INFO - Lendo os dados de treino.
+2024-08-25 12:33:25,294: __main__ - INFO - Lendo os dados de treino.
+2024-08-25 12:33:25,306: __main__ - INFO - Lendo os dados de teste.
+2024-08-25 12:33:25,306: __main__ - INFO - Lendo os dados de teste.
+2024-08-25 12:33:25,417: __main__ - INFO - Extraindo as regras
+2024-08-25 12:33:25,417: __main__ - INFO - Extraindo as regras
+2024-08-25 12:33:29,181: __main__ - INFO - Filtrando as regras
+2024-08-25 12:33:29,181: __main__ - INFO - Filtrando as regras
+2024-08-25 12:33:29,198: __main__ - INFO - São 66 regras após a filtragem.
+2024-08-25 12:33:29,198: __main__ - INFO - São 66 regras após a filtragem.
+2024-08-25 12:33:29,239: __main__ - INFO - Criando o sistema de controle
+2024-08-25 12:33:29,239: __main__ - INFO - Criando o sistema de controle
+2024-08-25 12:34:21,494: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-25 12:34:21,549: __main__ - INFO - Módulo util importado com sucesso.
+2024-08-25 12:34:21,577: ga_K_LightGBM - INFO - ##### K = 3 #####
+2024-08-25 12:34:21,578: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-25 12:34:21,643: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-25 12:35:01,633: ga_K_LightGBM - INFO - K = 3
+2024-08-25 12:35:01,635: ga_K_LightGBM - INFO - hof: 20.590 << ['sensor_11', 'time', 'sensor_9']
+2024-08-25 12:35:01,654: __main__ - INFO - Lendo os dados de treino.
+2024-08-25 12:35:01,665: __main__ - INFO - Lendo os dados de teste.
+2024-08-25 12:35:01,795: __main__ - INFO - Extraindo as regras
+2024-08-25 12:35:05,529: __main__ - INFO - Filtrando as regras
+2024-08-25 12:35:05,539: __main__ - INFO - São 92 regras após a filtragem.
+2024-08-25 12:35:05,574: __main__ - INFO - Criando o sistema de controle

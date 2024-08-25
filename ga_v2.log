@@ -1,0 +1,18 @@
+2024-08-22 20:19:59,733: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-22 20:19:59,735: ga_K_LightGBM - INFO - ##### K = 9 #####
+2024-08-22 20:19:59,735: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-22 20:19:59,992: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-22 20:21:09,061: ga_K_LightGBM - INFO - K = 9
+2024-08-22 20:21:09,062: ga_K_LightGBM - INFO - hof: 19.167 << ['sensor_9', 'sensor_11', 'sensor_13', 'sensor_8', 'sensor_12', 'sensor_7', 'sensor_4', 'time', 'sensor_17']
+2024-08-22 21:43:15,291: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-22 21:43:15,293: ga_K_LightGBM - INFO - ##### K = 9 #####
+2024-08-22 21:43:15,293: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-22 21:43:15,388: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-22 21:44:26,573: ga_K_LightGBM - INFO - K = 9
+2024-08-22 21:44:26,574: ga_K_LightGBM - INFO - hof: 19.148 << ['sensor_3', 'time', 'sensor_4', 'sensor_17', 'sensor_7', 'sensor_9', 'sensor_2', 'sensor_12', 'sensor_11']
+2024-08-22 22:29:00,303: ga_K_LightGBM - INFO - Módulo util importado com sucesso.
+2024-08-22 22:29:00,305: ga_K_LightGBM - INFO - ##### K = 9 #####
+2024-08-22 22:29:00,305: ga_K_LightGBM - INFO - Lendo os dados de treino.
+2024-08-22 22:29:00,399: ga_K_LightGBM - INFO - Lendo os dados de teste.
+2024-08-22 22:30:12,661: ga_K_LightGBM - INFO - K = 9
+2024-08-22 22:30:12,662: ga_K_LightGBM - INFO - hof: 19.150 << ['sensor_9', 'sensor_11', 'time', 'sensor_2', 'sensor_17', 'sensor_13', 'sensor_14', 'sensor_12', 'sensor_7']
